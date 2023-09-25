@@ -1,2 +1,1 @@
-This Powerbi dashboard for superstore analysis.in which i can create a sales analysis dashboard and region level analysis.
-i can create various types of chart such as line,bar,map,card,pie,donut chart etc and apply slicers on it.
+This is powerbi repositories in which various type of powerbi dashboard uploaded i can use varoius types of chart and filters and slicers to create dashboard.
